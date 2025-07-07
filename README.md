@@ -17,7 +17,7 @@ This is a Python console application that extracts metadata from user-created ma
 ## Usage
 1. Make sure Python is installed (Python 3.x recommended)
 2. Install Pillow if not already installed
-    pip install Pillow
+    (pip install Pillow)
 3. Clone or download this repository
 4. Run the script from any location:
    python extract_maps.py
